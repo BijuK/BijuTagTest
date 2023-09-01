@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "boC2BstkVL1tPye1xmcihiN3ZqbYxKmqHSsVyzptK5FW0POU0KNoEkVQcYxIUFfN8iPPpZ9iYc0uC4+6XVehYQ==",
+  "success": true,
+  "projectFilePath": "D:\\Biju\\Work\\BijuTagTest\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BijuK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512",
+    "C:\\Users\\BijuK\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\BijuK\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\BijuK\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
