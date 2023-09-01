@@ -3,7 +3,7 @@ Console.WriteLine("Hello, World!");
 
 var bijuXyz = "Biju";
 
-Console.WriteLine(bijuX);
+Console.WriteLine(bijuXyz);
 
 
 
