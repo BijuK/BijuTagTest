@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-var bijuX = "Biju";
+var bijuXyz = "Biju";
 
 Console.WriteLine(bijuX);
 
