@@ -32,3 +32,13 @@ steps:
   inputs:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+- task: AzureResourceManagerTemplateDeployment@3
+  inputs:
+    deploymentScope: 'Resource Group'
+    azureResourceManagerConnection: 'bijupayasgo(1)(5527a386-006d-42e1-9874-fcb3975a7c10)'
+    subscriptionId: '5527a386-006d-42e1-9874-fcb3975a7c10'
+    action: 'Create Or Update Resource Group'
+    resourceGroupName: 'rgbijutest123'
+    location: 'West India'
+    templateLocation: 'Linked artifact'
+    deploymentMode: 'Incremental'
