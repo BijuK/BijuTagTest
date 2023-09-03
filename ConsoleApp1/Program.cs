@@ -8,6 +8,5 @@ Console.WriteLine(bijuXyz);
 Console.WriteLine(bijuXyz);
 
 
-Console.WriteLine(bijuXyztttttt);
 
 Console.WriteLine("Hello, World!");
