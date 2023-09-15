@@ -9,7 +9,7 @@
 # the `language` matrix defined below to confirm you have the correct set of
 # supported CodeQL languages.
 #
-name: "CodeQL"
+name: "BijuCodeQL"
 
 on:
   push:
@@ -45,7 +45,7 @@ jobs:
         # Learn more about CodeQL language support at https://aka.ms/codeql-docs/language-support
 
     steps:
-    - name: Checkout repository
+    - name: Biju Checkout repository
       uses: actions/checkout@v3
 
     # Initializes the CodeQL tools for scanning.
