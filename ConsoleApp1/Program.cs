@@ -11,7 +11,11 @@ var setting = new AppSetting();
 
 
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Hello, World!"); Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!"); 
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Hello, World!");
 public class AppSetting 
 {
     public string? ReferenceKey { get; set; }
